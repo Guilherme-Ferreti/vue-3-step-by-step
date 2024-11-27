@@ -1,0 +1,24 @@
+{
+  "name": "Smiley",
+  "spots": 5,
+  "members": [
+    {
+      "name": "john.doe",
+      "email": "john.doe@example.com",
+      "role": "Admin",
+      "status": "Active"
+    },
+    {
+      "name": "Jjane.doe",
+      "email": "jane.doe@example.com",
+      "role": "Member",
+      "status": "Active"
+    },
+    {
+      "name": "bob.smith",
+      "email": "bob.smith@example.com",
+      "role": "Member",
+      "status": "Inactive"
+    }
+  ]
+}

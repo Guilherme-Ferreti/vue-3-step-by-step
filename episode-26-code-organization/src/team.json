@@ -1,0 +1,11 @@
+{
+    "name": "Smiley",
+    "spots": 5,
+    "members": [
+        {
+            "name": "John Doe",
+            "email": "john.doe@smiley.com",
+            "status": "active"
+        }
+    ]
+}

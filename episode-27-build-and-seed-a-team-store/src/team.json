@@ -1,0 +1,36 @@
+{
+    "name": "Smiley",
+    "spots": 5,
+    "members": [
+        {
+            "name": "John Doe",
+            "email": "john.doe@example.com",
+            "role": "Admin",
+            "status": "Active"
+        },
+        {
+            "name": "Jane Doe",
+            "email": "jane.doe@example.com",
+            "role": "Member",
+            "status": "Active"
+        },
+        {
+            "name": "Bob Smith",
+            "email": "bob.smith@example.com",
+            "role": "Member",
+            "status": "Inactive"
+        },
+        {
+            "name": "Jane Doe",
+            "email": "jane.doe@example.com",
+            "role": "Member",
+            "status": "Active"
+        },
+        {
+            "name": "Bob Smith",
+            "email": "bob.smith@example.com",
+            "role": "Member",
+            "status": "Inactive"
+        }
+    ]
+}
